@@ -1,4 +1,4 @@
-# ADD TO CART FUNCTIONALITY(CYPRESS)
+# ADD TO CART FUNCTIONALITY
 
 ## Introduction
 Overview  
