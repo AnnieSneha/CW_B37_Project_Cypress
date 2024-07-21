@@ -31,7 +31,8 @@ Frontend
 Frontend: https://tutorialsninja.com/demo/
 
 ## Directory Structure
-my-app/
+```
+PROJECT_CYPRESS/
 ├─ cypress/
 │  ├─ fixtures/
 │  ├─ integration/
@@ -40,7 +41,7 @@ my-app/
 │  │  |  |  ├─ pagetest.js
 │  ├─ plugins/
 │  ├─ support/
-|  |  ├─PAgeObjects
+|  |  ├─PageObjects
 ├─ node_modules/
 ├─ .gitignore
 ├─ cypress.config.json
