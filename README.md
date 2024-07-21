@@ -76,8 +76,6 @@ Configure Cypress (cypress.json)
 The cypress.json file is the main configuration file for Cypress. You can specify various settings here, such as the base URL for your tests and other configurations.
 
 ## Usage
-# Open Cypress Test Runner
-npx cypress open
 ```
 # Open Cypress Test Runner
 npx cypress open
