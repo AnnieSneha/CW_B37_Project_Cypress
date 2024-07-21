@@ -62,8 +62,35 @@ PROJECT_CYPRESS/
 Used Page Object Model (POM) for better code organization and maintainability.
 
 ## Installation & Getting Started
+Initialize Node.js Project  
+To start a new Node.js project, you need to create a package.json file. Run the following command in your terminal:
+```
+npm init
+```
+Install Cypress  
+Once you have your package.json file, you can install Cypress. Run the following command:
+```
+npm install cypress --save-dev
+```
+Configure Cypress (cypress.json)  
+The cypress.json file is the main configuration file for Cypress. You can specify various settings here, such as the base URL for your tests and other configurations.
 
-
+## Usage
+# Open Cypress Test Runner
+npx cypress open
+```
+# Open Cypress Test Runner
+npx cypress open
+```
+```
+# Run the tests
+npx cypress run
+```
+## Technology Stack
+Cypress: End-to-end testing framework  
+JavaScript: Programming language  
+VSCode: Integrated Development Environment  
+Chrome/Edge/Firefox/Electron: Web browser for running tests
 
 
 
