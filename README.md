@@ -22,5 +22,49 @@ Problems Solved
 Programming Language: JavaScript
 Testing Framework: Cypress
 Text Editor/IDE: VSCode
-Web Browser: Chrome or Electron
+Web Browser: Chrome / Edge / Firefox /Electron
+
+## Project Type
+Frontend
+
+## Deployed App
+Frontend: https://tutorialsninja.com/demo/
+
+## Directory Structure
+my-app/
+├─ cypress/
+│  ├─ fixtures/
+│  ├─ integration/
+|  |  ├─Project
+│  │  |  ├─ framework
+│  │  |  |  ├─ pagetest.js
+│  ├─ plugins/
+│  ├─ support/
+|  |  ├─PAgeObjects
+├─ node_modules/
+├─ .gitignore
+├─ cypress.config.json
+├─ package-lock.json
+├─ package.json
+
+## Video Walkthrough of the project
+
+## Video Walkthrough of the codebase
+
+## Features
+1. Searches for a product
+2. Selects a product from search results
+3. Adds the selected product to the cart
+4. Verifies that the product is successfully added to the cart
+
+## Design Decisions
+Used Page Object Model (POM) for better code organization and maintainability.
+
+## Installation & Getting Started
+
+
+
+
+
+
 
