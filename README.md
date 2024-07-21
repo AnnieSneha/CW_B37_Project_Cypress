@@ -20,8 +20,8 @@ The primary goal of this project is to demonstrate the ability to automate commo
 4. Tools and Technologies
 
 Programming Language: JavaScript  
-Testing Framework: Cypress
-Text Editor/IDE:VSCode 
+Testing Framework: Cypress  
+Text Editor/IDE:VSCode  
 Web Browser: Chrome / Edge / Firefox / Electron
 
 ## Project Type
