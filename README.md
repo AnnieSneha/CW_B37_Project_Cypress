@@ -19,10 +19,10 @@ The primary goal of this project is to demonstrate the ability to automate commo
 3. Early Bug Detection: Identifies issues early in the development cycle, improving the overall quality of the application.
 4. Tools and Technologies
 
-### Programming Language: JavaScript
-### Testing Framework: Cypress
-### Text Editor/IDE:VSCode
-### Web Browser: Chrome / Edge / Firefox / Electron
+Programming Language: JavaScript  
+Testing Framework: Cypress
+Text Editor/IDE:VSCode 
+Web Browser: Chrome / Edge / Firefox / Electron
 
 ## Project Type
 Frontend
