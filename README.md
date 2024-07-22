@@ -49,8 +49,10 @@ PROJECT_CYPRESS/
 ├─ package.json
 ```
 ## Video Walkthrough of the project
+https://drive.google.com/file/d/1TNAmmcdeG-xR-OhUbccj9buLslw3LikC/view?usp=sharing
 
 ## Video Walkthrough of the codebase
+https://drive.google.com/file/d/17UR2wTohkzB4hOLQz99JSU_PC8U1apnZ/view?usp=sharing
 
 ## Features
 1. Searches for a product
